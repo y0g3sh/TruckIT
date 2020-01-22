@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "976432902054",
+    "firebase_url": "https://heavy-duty-vehicle-assistor.firebaseio.com",
+    "project_id": "heavy-duty-vehicle-assistor",
+    "storage_bucket": "heavy-duty-vehicle-assistor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976432902054:android:205f4a41c54ca01f",
+        "android_client_info": {
+          "package_name": "com.truckit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976432902054-72jg8hkmkqr5vooo38c3tejn4sch4rga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfBbK22nU44CNcGDb7QlW_FcfCqlF7BJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976432902054-72jg8hkmkqr5vooo38c3tejn4sch4rga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "976432902054-e8a6ahlhe19jk3vnslh5g3e6djc9d4pi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Cheetah-Dev.Heavy-Duty-vehicle-Assistor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
